@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="load_keys" />
+          <option value="test.generate_keys" />
+          <option value="generate_keys" />
+          <option value="main.fileHelper" />
+          <option value="pymorphy2" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
